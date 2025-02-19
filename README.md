@@ -1,3 +1,5 @@
 # Python_Project learnings -->
-Performed data cleaning and maniplation, Performed exploratory data analysis (EDA) using Pandas, matplotlib and seaborn libraris.
-Improved sales by identifing most selling product categories and products, which can help to plan inventory and hence meet the demands.
+Conducted Exploratory Data Analysis (EDA) to uncover sales trends, customer behavior, and key performance drivers.
+Utilized Pandas, NumPy, and Matplotlib/Seaborn for data cleaning, transformation, and visualization.
+Analyzed sales performance by region, category, and time series trends to derive actionable insights.
+Implemented statistical analysis and feature engineering to improve data-driven decision-making.
